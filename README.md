@@ -1,4 +1,4 @@
-<img src="data/PortadaCoronavirusIA.jpg" style="width:100%;">
+<img src="data/PortadaCoronavirusIA.jpg" style="width:700px;">
 
 
 # ANÁLISIS ESTADÍSTICO SOBRE COVID-19
@@ -23,6 +23,6 @@ En estos últimos meses no ha salido tema más importante que hablar que del cor
 
 ## Links
 
-Link del Video [Ver](https://github.com/pandao/editor.md "Heading link")
-Link del Dataset1 [Ver](https://github.com/pandao/editor.md "Heading link")
-Link del Dataset2 [Ver](https://github.com/pandao/editor.md "Heading link")
+* **Link del Video** - [Ver](#)
+* **Link del Dataset1**  - [Ver](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+* **Link del Dataset2**  - [Ver](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU0SIALScXx8VXDX7yKNKWWPKE1YjFlWc6VTEVSN45CklWWf-uWmprQIyLtoPDA18tX9cFDr-aQ9S6/pubhtml#)
