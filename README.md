@@ -18,8 +18,8 @@ En estos últimos meses no ha salido tema más importante que hablar que del cor
 
 ## Recursos
 
-- **Dataset : ** Mas de 4 mil pacientes infectado por covid alrededor del mundo
-- **Modelos : ** SVC (Support Vector Classifier), KNeighborsClassifier,GaussianNB,DecisionTreeClassifier,RandomForestClassifier
+- **Dataset :** Mas de 4 mil pacientes infectado por covid alrededor del mundo
+- **Modelos :** SVC (Support Vector Classifier), KNeighborsClassifier,GaussianNB,DecisionTreeClassifier,RandomForestClassifier
 
 ## Links
 
